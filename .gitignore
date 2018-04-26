@@ -1,0 +1,7 @@
+*.txt
+output/
+*.fa
+*.out
+*.ps
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
